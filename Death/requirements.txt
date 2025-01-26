@@ -1,0 +1,8 @@
+sockets
+whois
+os
+requests
+datetime
+subprocess
+hashlib
+colorama
